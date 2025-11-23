@@ -1,5 +1,5 @@
 # Aplicación de Gestión de Eventos Comunitarios
-### Proyecto 2 - Desarrollo de Software para Móviles (DSM)
+### Proyecto 2 - Desarrollo de Software para Móviles (DSM941 G01T (Virtual))
 
 Este repositorio contiene el código fuente de la aplicación Android desarrollada en Kotlin con Jetpack Compose para la gestión de eventos comunitarios.
 
